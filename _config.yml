@@ -1,19 +1,19 @@
 # Site settings
-title: allen.wang
-SEOTitle: allen.wang
+title: Personal Webstie of Guihong Li
+SEOTitle: guihong.li
 header-img: img/home.jpg
-email: wanghmjlu@163.com
-description: "Allen WANG | Big Data Developer"
-keyword: "Allen WANG, allenwhm, big data, 大数据"
-url: "https://allenwhm.github.io"
+email: lgh@utexas.edu
+description: "Guihong Li"
+keyword: "Guihong Li, machine learning, modeling, hardware optimization"
+url: "https://LiGuihong.github.io"
 baseurl: ""
 
 # SNS settings
 RSS: false
-weibo_username:     wanghuoming
-zhihu_username:     allenwhm
-github_username:    allenwhm
-linkedin_username:  allen-wang-王火明-85650ba9
+#weibo_username:     wanghuoming
+#zhihu_username:     allenwhm
+github_username:    LiGuihong
+#linkedin_username:  allen-wang-王火明-85650ba9
 #twitter_username:   allewhm
 #facebook_username:  allewhm
 
@@ -54,7 +54,7 @@ ga_domain: allenwang.tech
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "以好奇之心，探索广阔世界"
+sidebar-about-description: "When I know more, I know less"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
